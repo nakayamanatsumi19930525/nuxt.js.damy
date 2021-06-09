@@ -1,0 +1,38 @@
+$color:#707070;
+$hover-color:#333;
+$main-color:#ef6687;
+
+body {
+  font-size: 16px;
+  color: $color;
+  font-family: 'YuGothic';
+  line-height: 1.5;
+}
+
+p {
+  line-height: 1.5;
+}
+
+a{
+   color: $color;
+   transition: all 0.2s;
+   &:hover{
+     color: $hover-color;
+   }
+}
+
+
+.nav-link{
+  color: $color;
+}
+
+li{
+  list-style: none;
+}
+
+.container-fluid{
+  width: 100vw;
+}
+
+
+
