@@ -1,12 +1,16 @@
 <template>
     <div class="container row d-flex justify-content-center align-items-center">
-    <Title class="text-center">Q&A</Title>
+    <Title class="text-center qa-title">Q&A</Title>
 
   <div class="qa-section">
     <div class="qa">
       <div class="question">
         <p class="qa-main">Q</p>
-        <p class="question-p">あああああああああああああああああああああああああああああああああああああああああ</p>
+        <p class="question-p">かっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっk</p>
+      </div>
+      <div class="answer">
+        <p class="qa-main answer-main">A</p>
+        <p class="answer-p">あああああああああああああああああああああああああああああああああああああああああ</p>
       </div>
       <div class="answer">
         <p class="qa-main answer-main">A</p>
@@ -177,7 +181,9 @@ $sp:375px;
 
 }
 
-
+.qa-title{
+  margin-bottom: 77px;
+}
 
 
 </style>

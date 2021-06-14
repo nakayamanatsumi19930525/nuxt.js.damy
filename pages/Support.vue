@@ -51,9 +51,6 @@ $sp:375px;
 }
 
 
-#avater-title{
-  margin-top: 70px;
-}
 
 #container3{
   width: 100vw;
@@ -68,12 +65,12 @@ h3{
   line-height: 2;
 }
 .support-sec{
-  width: 1000px;
-  margin:0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  position:relative;
-  // z-index: 10;
+    width: 880px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+
   .sec-02{
     margin-right: 40px;
   }
@@ -128,6 +125,7 @@ margin-bottom: -22px;
     height: 983px;
     position: absolute;
     top: 1230px;
+    left: 0;
 }
 
 // ----------------------------

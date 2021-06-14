@@ -124,7 +124,7 @@ button.active{
 }
 
 .tab-content div {
-  padding: 30px;
+  padding: 50px;
   background: #ffffff;
   width: 80%;
   margin: 0 auto;
@@ -139,7 +139,7 @@ button.active{
   margin: 0 calc(50% - 50vw);
   box-sizing: border-box;
   width: 1440px;
-  margin-top: 120px;
+  margin-top: 160px;
   margin-bottom: -20px;
 }
 

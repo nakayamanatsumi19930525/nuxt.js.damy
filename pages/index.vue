@@ -1,13 +1,14 @@
 <template>
   <div>
     <MainVisual></MainVisual>
-<div class="container">
-  <ul class="list">
+    <div class="container">
+    <!-- <Glonav></Glonav>
+      <ul class="list">
           <router-link class="nav-link" to="/">TSUTSUMUとは</router-link>
           <router-link class="nav-link" to="/">サポート体制</router-link>
           <router-link class="nav-link" to="/">社員の声</router-link>
           <router-link class="nav-link" to="/">Q&A</router-link>
-   </ul>
+   </ul> -->
 
         <h5 class="ttl col-lg-10 mx-auto text-center">
           あああああああああああああああああああ<br>
@@ -202,10 +203,12 @@
 <script>
 import Title from "~/components/Title.vue";
 import MainVisual from "~/components/MainVisual.vue";
+import Glonav from "~/components/Glonav.vue";
 export default {
   components: {
     Title,
-    MainVisual
+    MainVisual,
+    Glonav
   }
 };
 </script>
