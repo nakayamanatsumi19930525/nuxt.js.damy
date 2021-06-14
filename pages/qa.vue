@@ -10,7 +10,7 @@
       </div>
       <div class="answer">
         <p class="qa-main answer-main">A</p>
-        <p class="answer-p">あああああああああああああああああああああああああああああああああああああああああ</p>
+        <p class="answer-p">うううううううううううううううううううううううううううううううううううううううううう</p>
       </div>
       <div class="answer">
         <p class="qa-main answer-main">A</p>
