@@ -20,7 +20,7 @@
     <div class="qa">
       <div class="question">
         <p class="qa-main">Q</p>
-        <p class="question-p">あああああああああああああああああああああああああああああああああああああああああ</p>
+        <p class="question-p">赤々カカカカカカカカカカカカかカカカカかか</p>
       </div>
       <div class="answer">
         <p class="qa-main answer-main">A</p>
@@ -127,16 +127,17 @@ $sp:375px;
       align-items: end;
     }
   
+  
 
   .question-p{
     font-size: 23px;
     font-weight: bold;
-    margin-left: 50px;
+margin-left: 50px;
 
     @include sp{
     width: 302px;
     font-size: 16px;
-    margin-left:7px;
+margin-left:7px;
     }
   }
 }
